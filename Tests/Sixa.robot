@@ -10,6 +10,7 @@ User must sign in to check out
   Open browser  https://www.sixa.io/  ff
   Wait until page contains  Personal Cloud
   Click link  FEATURES
+  close browser
 
 
 *** Keywords ***
